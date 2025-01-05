@@ -135,7 +135,7 @@ async def start_command(client: Client, message: Message):
                     InlineKeyboardButton('🍁 ᴍᴏᴠɪᴇs', url='https://t.me/+SrRuLfKjAY0xZDU1')
                 ],
                 [
-                    InlineKeyboardButton('🔞. ᴄᴏꜱᴘʟᴀʏ  .🚀', url='https://t.me/+Lue7ExXUBak1NDhl')
+                    InlineKeyboardButton('🔞. ᴄᴏꜱᴘʟᴀʏ  .🚀', url='https://t.me/+rulP7r7dU-BhNWY1')
                 ]]
             )
             await message.reply_text(
